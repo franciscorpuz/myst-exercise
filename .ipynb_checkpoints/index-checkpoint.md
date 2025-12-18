@@ -15,13 +15,13 @@ export:
 
 # My New Idea
 
-Hello, world!
+Hello, AGU! We **almost** finished module 5!!
 
 $$
 1 + 1 = 2
 $$
 
 :::{note} Click Me! 👈
-<!-- :class: dropdown -->
+:class: dropdown
 👋 Wow! MyST is fun and cool!
 :::
